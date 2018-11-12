@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/bishopB.gif</file>
+        <file>Resources/bishopW.gif</file>
+        <file>Resources/kingB.gif</file>
+        <file>Resources/kingW.gif</file>
+        <file>Resources/knightB.gif</file>
+        <file>Resources/knightW.gif</file>
+        <file>Resources/pawnB.gif</file>
+        <file>Resources/pawnW.gif</file>
+        <file>Resources/queenB.gif</file>
+        <file>Resources/queenW.gif</file>
+        <file>Resources/rookB.gif</file>
+        <file>Resources/rookW.gif</file>
+        <file>Resources/Blank.GIF</file>
+    </qresource>
+</RCC>
